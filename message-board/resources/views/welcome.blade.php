@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    金子　aaa
+                    金子　aaassssssddd
                 </div>
 
                 <div class="links">
