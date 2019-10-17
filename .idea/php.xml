@@ -80,6 +80,7 @@
       <path value="$PROJECT_DIR$/message-board/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/message-board/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/message-board/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/message-board/vendor/laravelcollective/html" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />
